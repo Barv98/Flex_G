@@ -10,6 +10,9 @@
     height: 600px;
     outline: 2px solid #000;
     margin: 30px auto; /* shorthand */
+    display: flex;
+    /* flex-wrap: wrap;
+    align-content: space-around; */
 }
 
 .item{
@@ -39,9 +42,3 @@
 .item4{
     background: steelblue;
 }
-/* .cta{
-    padding: 15px 30px;
-    background: steelblue;
-    color: white;
-    text-decoration: none;
-} */
